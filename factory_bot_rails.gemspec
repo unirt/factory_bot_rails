@@ -15,6 +15,6 @@ Gem::Specification.new do |s|
   s.executables   = []
   s.license       = "MIT"
 
-  s.add_runtime_dependency("factory_bot", :git => "git@github.com:unirt/factory_bot.git", :branch => "feature/transient_associations")
+  s.add_runtime_dependency("factory_bot", :git => "https://github.com/unirt/factory_bot.git", :branch => "feature/transient_associations")
   s.add_runtime_dependency("railties", ">= 3.0.0")
 end
