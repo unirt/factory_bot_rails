@@ -9,8 +9,8 @@ GIT
 PATH
   remote: .
   specs:
-    factory_bot_rails (4.11.2)
-      factory_bot
+    factory_bot_rails (4.50.0)
+      factory_bot (= 4.50.0)
       railties (>= 3.0.0)
 
 GEM
