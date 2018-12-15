@@ -20,3 +20,5 @@ gem "therubyrhino", platforms: :jruby
 gem "sqlite3", platforms: :ruby
 
 gem "rubocop", "0.54", require: false
+
+gem "factory_bot", :git => "https://github.com/unirt/factory_bot.git", :branch => "feature/transient_associations"
